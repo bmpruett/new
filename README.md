@@ -6,7 +6,7 @@
   <body>
     The content of the webpage 
   <script>
-    console.log("hi there!);
+    console.log("hi there!");
   </script>
   </body>
   
